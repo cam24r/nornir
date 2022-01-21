@@ -1,0 +1,4 @@
+Hostname,IP_Address,Port,username,password,group,type
+F241.06.19-ASR1001-1,10.122.189.131,22,admin,cisco!123,routers,iosxe
+F241.06.19-ASR1001-2,10.122.189.132,22,admin,cisco!123,routers,iosxe
+F241.06.19-3850,10.122.189.130,22,admin,cisco!123,switches,iosxe
